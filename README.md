@@ -15,3 +15,9 @@ A repository containing a curated list of common scripts/tools/plugins I use and
         MySQL
 
                 add_column_if_not_exist   - Script to add column to an existing table, if it                                                                  doesnt exist in it
+
+#### Starters
+
+        Flask
+
+                index.py - Flask starter template containing wasy of making POST and GET                                   requests and extracting data from Request body and URL params
