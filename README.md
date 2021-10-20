@@ -21,3 +21,9 @@ A repository containing a curated list of common scripts/tools/plugins I use and
         Flask
 
                 index.py - Flask starter template containing wasy of making POST and GET                                   requests and extracting data from Request body and URL params
+
+#### Javascript
+
+        Helpers
+
+                binarySearchInSortedArray.js - A function which binary searches a sorted array based on a compare function
