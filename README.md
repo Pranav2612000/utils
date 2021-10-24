@@ -27,3 +27,11 @@ A repository containing a curated list of common scripts/tools/plugins I use and
         Helpers
 
                 binarySearchInSortedArray.js - A function which binary searches a sorted array based on a compare function
+
+        Validators
+
+                mobileValidator - Function to validate mobile numbers ( Indian )
+
+                emailValidator - A regex based function to validate email Ids
+
+                wordValidator - A regex based function to validate strings containing only letters
