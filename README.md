@@ -28,6 +28,10 @@ A repository containing a curated list of common scripts/tools/plugins I use and
 
                 binarySearchInSortedArray.js - A function which binary searches a sorted array based on a compare function
 
+                copyToClipboard.js - A function to move text to users copy clipboard
+
+
+
         Validators
 
                 mobileValidator - Function to validate mobile numbers ( Indian )
