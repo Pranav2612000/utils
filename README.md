@@ -30,7 +30,7 @@ A repository containing a curated list of common scripts/tools/plugins I use and
 
                 copyToClipboard.js - A function to move text to users copy clipboard
 
-
+    
 
         Validators
 
@@ -39,3 +39,13 @@ A repository containing a curated list of common scripts/tools/plugins I use and
                 emailValidator - A regex based function to validate email Ids
 
                 wordValidator - A regex based function to validate strings containing only letters
+
+
+
+#### Scripts
+
+        Installation
+
+                ./install_python.sh - A script to install and setup python3, pip and other dependencies for python
+
+_
