@@ -42,6 +42,9 @@ A repository containing a curated list of common scripts/tools/plugins I use and
 
                 wordValidator - A regex based function to validate strings containing only letters
 
+        AWS
+                lambda - service to set up and use AWS Lambda API
+
 
 
 #### Scripts
