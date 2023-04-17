@@ -30,6 +30,8 @@ A repository containing a curated list of common scripts/tools/plugins I use and
 
                 copyToClipboard.js - A function to move text to users copy clipboard
 
+                delay.js - A function to add delay
+
     
 
         Validators
