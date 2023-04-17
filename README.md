@@ -32,6 +32,8 @@ A repository containing a curated list of common scripts/tools/plugins I use and
 
                 delay.js - A function to add delay
 
+                isValidHTTPURL.js - A function to check if a string is a valid URL
+
     
 
         Validators
